@@ -14,6 +14,7 @@ Which modules to start:
 What you need to start:
 - Launch "MainWindow.py" from UserGUI.
 - Insert URL of the post, choose social media for this post and press the start button. Done : )
+- AND if you want to use Instagram analysis, you need to open "WebParser.py", go to "_parse_telegram_post" function of "PostParser" class and enter your login and password of your instagram account.
 
 ---
 ![image](https://user-images.githubusercontent.com/62260405/142733937-884fb6f5-507a-4be8-8b79-00fadf2b8874.png)
