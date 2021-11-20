@@ -1,5 +1,5 @@
 # SC_media_post-analyzer
-The project takes a URL of social media post, handles it and returns statistics and metrics of this post, like positive chance of post and negative. (more features probably will be added in future). It is useful if, for example, an administrator and you want to know post approval chance, so you will be able to manipulate with it.
+The project takes a URL of social media post, handles it and returns statistics and metrics of this post, like positive chance of post and negative. (more features probably will be added in future). It is useful if you, for example, an administrator and you want to know post approval chance, so you will be able to manipulate with it.
 
 ---
 Which modules to start:
